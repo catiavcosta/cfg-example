@@ -1,0 +1,27 @@
+body {
+  background-color: red;
+  color: #FFFFFF;
+  font-family: arial;
+  border: solid 3px;
+  margin: 25px;
+  padding: 10px
+}
+.a {
+  color: red;
+}
+
+#b {
+  color: blue;
+}
+div {
+  padding: 10px
+}
+
+img {
+  height: 60vh;
+  width: 80vw;
+}
+
+h1{
+  text-align: center;
+}
